@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-node2",
+  "version": "1.0.0",
+  "description": "Sample Node.js project for Jenkins Pipeline experiment",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test.js"
+  },
+  "author": "Vrithika Boggarapu",
+  "license": "ISC"
+}
